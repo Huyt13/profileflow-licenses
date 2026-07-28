@@ -5,26 +5,16 @@
     "license_hash": "53a9b4b819cf89c58aa341e051119afb7b99b047034bcdc675d7399209731b57",
     "product_id": "profileflow",
     "plan": "pro",
-    "status": "revoked",
+    "status": "suspended",
     "created_at": "2026-07-28T14:10:52.838449+00:00",
     "expires_at": "2027-07-28T14:10:52.838449+00:00",
     "max_devices": 1,
     "offline_days": 7,
     "features": [],
-    "devices": [
-      {
-        "device_hash": "621dad714a6aeb278de58c8163743cbdac7d6f6221dcfb2c89dcc6be0c64a621",
-        "device_name": "",
-        "os_name": "",
-        "app_version": "",
-        "activated_at": "2026-07-28T14:15:25.825863+00:00",
-        "last_seen_at": "",
-        "status": "active"
-      }
-    ],
-    "revision": 3,
+    "devices": [],
+    "revision": 5,
     "notes": "",
     "activated_at": "2026-07-28T14:15:25.825863+00:00"
   },
-  "signature": "RQXyZArrD8kUm+zUW1vP4uSh/VKRummAhVBELGPa9T/BD1udt56gu0vfkoqOeCZBWhBB+rnXPIuMxdZ51BjGBg=="
+  "signature": "RAnB1n521vCGTDTysoFek+gWllsmQcBbFSJtL1yKSdiditt/kX/E9b98IoMErKs1nNf67dlIrFAnE383/nG+Bg=="
 }
