@@ -1,0 +1,30 @@
+{
+  "payload": {
+    "schema_version": 1,
+    "license_id": "lic_612efa892b4b47f9",
+    "license_hash": "746e32a9b83a2a00cc8fe136567556f7a97516444b115848ad1cc18cb5dc09c0",
+    "product_id": "profileflow",
+    "plan": "pro",
+    "status": "active",
+    "created_at": "2026-07-29T14:08:15.449953+00:00",
+    "expires_at": "2027-07-29T14:08:15.449953+00:00",
+    "max_devices": 1,
+    "offline_days": 7,
+    "features": [],
+    "devices": [
+      {
+        "device_hash": "621dad714a6aeb278de58c8163743cbdac7d6f6221dcfb2c89dcc6be0c64a621",
+        "device_name": "",
+        "os_name": "",
+        "app_version": "",
+        "activated_at": "2026-07-29T14:08:33.900876+00:00",
+        "last_seen_at": "",
+        "status": "active"
+      }
+    ],
+    "revision": 1,
+    "notes": "",
+    "activated_at": "2026-07-29T14:08:33.903875+00:00"
+  },
+  "signature": "azJ1+msnjl4KTASP2ZZpdtQXgb8vD6X/7uQFOBz7OY3yYx9qLQTQ38dZvXFpAHjVSy82wXnPO/oCNBQBbOT9DA=="
+}
