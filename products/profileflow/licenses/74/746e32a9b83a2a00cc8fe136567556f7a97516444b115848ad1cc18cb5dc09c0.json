@@ -5,7 +5,7 @@
     "license_hash": "746e32a9b83a2a00cc8fe136567556f7a97516444b115848ad1cc18cb5dc09c0",
     "product_id": "profileflow",
     "plan": "pro",
-    "status": "active",
+    "status": "revoked",
     "created_at": "2026-07-29T14:08:15.449953+00:00",
     "expires_at": "2027-07-29T14:08:15.449953+00:00",
     "max_devices": 1,
@@ -22,9 +22,9 @@
         "status": "active"
       }
     ],
-    "revision": 1,
+    "revision": 2,
     "notes": "",
     "activated_at": "2026-07-29T14:08:33.903875+00:00"
   },
-  "signature": "azJ1+msnjl4KTASP2ZZpdtQXgb8vD6X/7uQFOBz7OY3yYx9qLQTQ38dZvXFpAHjVSy82wXnPO/oCNBQBbOT9DA=="
+  "signature": "l5kejKTsi0HnfhAGGPbimYLhnC6SCQWLVta5tkCFJyzbo5nVnYgggsu8iFF78qkcSgh988Aa6m7nbkGriMzmDA=="
 }
