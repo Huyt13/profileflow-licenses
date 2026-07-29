@@ -11,10 +11,20 @@
     "max_devices": 1,
     "offline_days": 7,
     "features": [],
-    "devices": [],
-    "revision": 3,
+    "devices": [
+      {
+        "device_hash": "70fce1b626a92f75aef139ff4a5387acdef9d969c3737e37e553052e46d95c45",
+        "device_name": "",
+        "os_name": "",
+        "app_version": "",
+        "activated_at": "2026-07-29T15:56:00.238635+00:00",
+        "last_seen_at": "",
+        "status": "active"
+      }
+    ],
+    "revision": 4,
     "notes": "",
     "activated_at": "2026-07-29T14:08:33.903875+00:00"
   },
-  "signature": "Q6PkjLBvWYXiguPc14UheZdT8ul+5RyF/T/esV4hXItzM+r3YL42xVciR9ULtF9mifExFB10Tzv+UxPtu3RiDg=="
+  "signature": "Ip7UxrauJm1EnsCAN/BatyChuvFSVkCEO0qI7YywDjfJ/bsp3UH03dcuExU21Dx3IJXPRTBzpLc2sJUVKI/tCg=="
 }
