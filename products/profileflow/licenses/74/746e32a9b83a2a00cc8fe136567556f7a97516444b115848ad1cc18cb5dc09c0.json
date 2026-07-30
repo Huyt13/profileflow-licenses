@@ -13,18 +13,18 @@
     "features": [],
     "devices": [
       {
-        "device_hash": "70fce1b626a92f75aef139ff4a5387acdef9d969c3737e37e553052e46d95c45",
+        "device_hash": "621dad714a6aeb278de58c8163743cbdac7d6f6221dcfb2c89dcc6be0c64a621",
         "device_name": "",
         "os_name": "",
         "app_version": "",
-        "activated_at": "2026-07-29T15:56:00.238635+00:00",
+        "activated_at": "2026-07-30T18:02:24.180484+00:00",
         "last_seen_at": "",
         "status": "active"
       }
     ],
-    "revision": 5,
+    "revision": 7,
     "notes": "",
     "activated_at": "2026-07-29T14:08:33.903875+00:00"
   },
-  "signature": "ZxKmakGFc8JpbJkiIvRylDLceOGA0CnEVtaOp1QSI74/Rxslq9+f9/nuVoZyZC9Q/Y/nOqb+7JbdAvaMnF/gAw=="
+  "signature": "rZs0hkteSNHD6NB2SXFpMOX9Q2gJVpB8m2IaHaFQfLXuPKFomIPMzCjzJLNR3A8PcYv63T6H8KvAXXoUmnuhDw=="
 }
